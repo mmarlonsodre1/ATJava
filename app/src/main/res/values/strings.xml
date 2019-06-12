@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AT Java</string>
+    <string name="registering_user">Registrando Usuário</string>
+    <string name="regristration_error">Falha ao se registrar</string>
+    <string name="successfully_registred">Registrado com sucesso</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_cadastro">Register</string>
+    <string name="prompt_password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="senha">Password</string>
+    <string name="email">Email</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="login_error">email ou senha inválido </string>
+    <string name="login_efetuado">Login Efetuado</string>
+    <string name="efetuando_login">Efetuando Login</string>
+</resources>
